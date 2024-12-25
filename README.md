@@ -1,4 +1,4 @@
-# Cafe Menu Application
+# Moonlight Cafe 
 
 This project provides an intuitive interface for customers to browse through a variety of products offered by the cafe and place orders seamlessly. It aims to enhance the customer experience by simplifying menu navigation and the ordering process.
 
